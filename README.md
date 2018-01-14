@@ -1,2 +1,3 @@
-# AI
-好记性，不如烂笔头！
+# python 学习网站
+- [Smart teaching solutions: Stepik](http://welcome.stepik.org/)
+  - [Catalog](https://stepik.org/catalog?language=en)
