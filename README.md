@@ -6,3 +6,5 @@
 转到：[我的项目搜集箱](https://github.com/q735613050/AI/blob/master/项目集装箱.md)
 
 将 python 文件打包：https://github.com/q735613050/PyInstaller
+
+笔记本：[Jupyter Notebook](https://mybinder.org/v2/gh/q735613050/AI/opening)
