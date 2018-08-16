@@ -14,4 +14,4 @@
 
 # Learning
 
-- [ML](https://github.com/q735613050/AI/tree/master/ML)
+- [ML](https://github.com/q735613050/AI/blob/master/ML/README.md)
