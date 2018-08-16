@@ -12,6 +12,6 @@
 
 笔记本：[Jupyter Notebook](https://mybinder.org/v2/gh/q735613050/AI/opening)
 
-# 其他
+# Learning
 
-- [机器学习概要](https://www.cnblogs.com/q735613050/p/9463438.html)
+- [ML](https://github.com/q735613050/AI/tree/master/ML)
