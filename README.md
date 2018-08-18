@@ -12,4 +12,8 @@
 
 笔记本：[Jupyter Notebook](https://mybinder.org/v2/gh/q735613050/AI/opening)
 
+# Learning
+
+- [ML](https://github.com/q735613050/AI/blob/master/ML/README.md)
+
 - [梯度寻优 (二) ](https://www.cnblogs.com/q735613050/p/9498022.html)
