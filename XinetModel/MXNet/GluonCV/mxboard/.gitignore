@@ -1,0 +1,7 @@
+.idea
+events.out.tfevents.*
+*.tsv
+*.pbtxt
+*.ndarray
+*.gz
+.DS_Store

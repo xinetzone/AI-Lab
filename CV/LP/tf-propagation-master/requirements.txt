@@ -1,0 +1,7 @@
+colorclass
+terminaltables
+pytest
+pytest-runner
+pytest-pep8
+pytest-xdist
+pytest-cov
