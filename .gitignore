@@ -10,3 +10,5 @@ build/
 dist*
 utils.py
 **/.h5
+*.zip
+AI/ML/python-machine-learning-book-2nd-edition
