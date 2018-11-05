@@ -14,5 +14,5 @@
 
 # Learning
 
-## [ML](https://github.com/q735613050/AI/blob/master/ML/README.md)
-## [梯度寻优 (二)](https://www.cnblogs.com/q735613050/p/9498022.html)
+- [ML](https://github.com/q735613050/AI/blob/master/ML/README.md)
+- [梯度寻优 (二)](https://www.cnblogs.com/q735613050/p/9498022.html)

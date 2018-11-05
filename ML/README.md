@@ -1,7 +1,6 @@
 ## 机器学习
 
 - [概要](https://nbviewer.jupyter.org/github/q735613050/AI/blob/master/ML/概要.ipynb)
-- [统计学习方法](./统计学习方法.md)
 - [感知机](./感知机.md)
     - [感知机实现](https://nbviewer.jupyter.org/github/q735613050/AI/blob/master/ML/感知机实现.ipynb)
 - [分类任务](https://nbviewer.jupyter.org/github/q735613050/AI/blob/master/ML/分类任务.ipynb)
@@ -15,6 +14,7 @@
 
 ### 数学基础
 
+- [统计学习方法](./统计学习方法.md)
 - [概率图模型](./概率图模型.md)
 - [概率统计基础](./概率统计基础.md)
 - [信息论基础](信息论基础.md)
