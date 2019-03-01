@@ -13,3 +13,4 @@ utils.py
 *.zip
 
 **/draft/
+**/.vscode
