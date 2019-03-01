@@ -1,7 +1,7 @@
 **/.ipynb_checkpoints
 **/__pycache__
-data/
-build/
+**/data/
+**/build/
 *.json
 *.params
 *.DS_Store
@@ -11,6 +11,6 @@ dist*
 utils.py
 **/.h5
 *.zip
-
 **/draft/
 **/.vscode
+*.code-workspace
