@@ -10,7 +10,7 @@
 dist*
 utils.py
 **/.h5
-*.zip
 **/draft/
 **/.vscode
 *.code-workspace
+*.zip
