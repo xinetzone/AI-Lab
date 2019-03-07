@@ -21,3 +21,7 @@
 - [决策树](分类/决策树.ipynb)
 - [集成分类](分类/集成分类.ipynb)
 - [softmax](分类/softmax.ipynb)
+
+#### 回归
+
+- [回归](回归.ipynb)
