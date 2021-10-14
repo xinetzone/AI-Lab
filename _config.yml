@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 encoding: UTF-8
 math:
     engine: 'mathjax'
