@@ -1,3 +1,5 @@
+更新的内容见 [sanstyle-book](https://xinetzone.github.io/sanstyle-book/)。
+
 ## 学习网站
 
 - [Smart teaching solutions: Stepik](http://welcome.stepik.org/)
